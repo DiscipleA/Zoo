@@ -30,5 +30,6 @@ public class ZooDemo {
             System.out.println(zoo[i].makeSound(input));
         }
         
+        sound.close();
     }
 }

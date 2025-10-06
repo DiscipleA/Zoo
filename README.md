@@ -34,4 +34,4 @@ Trump! Trump! Trump! Trump!
 
 📹 Demo
 
-Check out the YouTube video
+Check out the YouTube video (https://youtu.be/0x8sxKa8fEo) where this program is demonstrated.
