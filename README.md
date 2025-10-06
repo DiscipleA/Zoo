@@ -16,14 +16,15 @@ The `Zoo` program allows you to simulate animal sounds in a zoo setting. It incl
 
 ▶️ How to Run
 
-    Clone this repository.
-    Makesure all the class/object files in the same folder.
-    Compile the program:
+- Clone this repository.
+- Makesure all the class/object files in the same folder.
+- Compile the program:
 
+```
 javac ZooDemo.java
 java ZooDemo.java
-
-    Enter number of sound when prompted.
+```
+- Enter number of sound when prompted.
 
 📌 Example Output
 
